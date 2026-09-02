@@ -1,2 +1,2 @@
 "# Improx-tech" 
-Live Url : https://improx-tech.vercel.app/
+Live Url : https://improxtech.com/
